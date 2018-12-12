@@ -1,0 +1,201 @@
+,State,Year,Incidence
+1,Antioquia,1998,265
+2,Bolivar,1998,36
+3,Boyaca,1998,38
+4,Caldas,1998,92
+5,Casanare,1998,227
+6,Cundinamarca,1998,79
+7,Meta,1998,156
+8,Norte de Santander,1998,504
+9,Santander,1998,242
+10,Valle del cauca,1998,262
+11,Antioquia,1999,30
+12,Bolivar,1999,13
+13,Boyaca,1999,16
+14,Caldas,1999,14
+15,Casanare,1999,87
+16,Cundinamarca,1999,26
+17,Meta,1999,30
+18,Norte de Santander,1999,129
+19,Santander,1999,125
+20,Valle del cauca,1999,57
+21,Antioquia,2000,10
+22,Bolivar,2000,15
+23,Boyaca,2000,13
+24,Caldas,2000,11
+25,Casanare,2000,111
+26,Cundinamarca,2000,45
+27,Meta,2000,140
+28,Norte de Santander,2000,176
+29,Santander,2000,127
+30,Valle del cauca,2000,68
+31,Antioquia,2001,23
+32,Bolivar,2001,38
+33,Boyaca,2001,76
+34,Caldas,2001,48
+35,Casanare,2001,105
+36,Cundinamarca,2001,99
+37,Meta,2001,153
+38,Norte de Santander,2001,774
+39,Santander,2001,453
+40,Valle del cauca,2001,226
+41,Antioquia,2002,38
+42,Bolivar,2002,37
+43,Boyaca,2002,52
+44,Caldas,2002,147
+45,Casanare,2002,377
+46,Cundinamarca,2002,119
+47,Meta,2002,168
+48,Norte de Santander,2002,377
+49,Santander,2002,467
+50,Valle del cauca,2002,343
+51,Antioquia,2003,83
+52,Bolivar,2003,24
+53,Boyaca,2003,32
+54,Caldas,2003,97
+55,Casanare,2003,411
+56,Cundinamarca,2003,103
+57,Meta,2003,305
+58,Norte de Santander,2003,273
+59,Santander,2003,402
+60,Valle del cauca,2003,144
+61,Antioquia,2004,26
+62,Bolivar,2004,22
+63,Boyaca,2004,19
+64,Caldas,2004,29
+65,Casanare,2004,341
+66,Cundinamarca,2004,56
+67,Meta,2004,136
+68,Norte de Santander,2004,123
+69,Santander,2004,35
+70,Valle del cauca,2004,48
+71,Antioquia,2005,25
+72,Bolivar,2005,37
+73,Boyaca,2005,17
+74,Caldas,2005,25
+75,Casanare,2005,811
+76,Cundinamarca,2005,84
+77,Meta,2005,463
+78,Norte de Santander,2005,60
+79,Santander,2005,294
+80,Valle del cauca,2005,106
+81,Antioquia,2006,37
+82,Bolivar,2006,24
+83,Boyaca,2006,15
+84,Caldas,2006,68
+85,Casanare,2006,748
+86,Cundinamarca,2006,58
+87,Meta,2006,165
+88,Norte de Santander,2006,352
+89,Santander,2006,330
+90,Valle del cauca,2006,50
+91,Antioquia,2007,55
+92,Bolivar,2007,37
+93,Boyaca,2007,33
+94,Caldas,2007,47
+95,Casanare,2007,774
+96,Cundinamarca,2007,92
+97,Meta,2007,330
+98,Norte de Santander,2007,321
+99,Santander,2007,224
+100,Valle del cauca,2007,88
+101,Antioquia,2008,42
+102,Bolivar,2008,72
+103,Boyaca,2008,10
+104,Caldas,2008,10
+105,Casanare,2008,618
+106,Cundinamarca,2008,35
+107,Meta,2008,390
+108,Norte de Santander,2008,323
+109,Santander,2008,264
+110,Valle del cauca,2008,54
+111,Antioquia,2009,23
+112,Bolivar,2009,15
+113,Boyaca,2009,22
+114,Caldas,2009,35
+115,Casanare,2009,475
+116,Cundinamarca,2009,20
+117,Meta,2009,265
+118,Norte de Santander,2009,193
+119,Santander,2009,130
+120,Valle del cauca,2009,142
+121,Antioquia,2010,100
+122,Bolivar,2010,7
+123,Boyaca,2010,77
+124,Caldas,2010,47
+125,Casanare,2010,146
+126,Cundinamarca,2010,45
+127,Meta,2010,164
+128,Norte de Santander,2010,383
+129,Santander,2010,107
+130,Valle del cauca,2010,315
+131,Antioquia,2011,13
+132,Bolivar,2011,22
+133,Boyaca,2011,14
+134,Caldas,2011,19
+135,Casanare,2011,102
+136,Cundinamarca,2011,19
+137,Meta,2011,169
+138,Norte de Santander,2011,59
+139,Santander,2011,22
+140,Valle del cauca,2011,25
+141,Antioquia,2012,32
+142,Bolivar,2012,69
+143,Boyaca,2012,21
+144,Caldas,2012,8
+145,Casanare,2012,626
+146,Cundinamarca,2012,79
+147,Meta,2012,682
+148,Norte de Santander,2012,311
+149,Santander,2012,236
+150,Valle del cauca,2012,67
+151,Antioquia,2013,90
+152,Bolivar,2013,217
+153,Boyaca,2013,52
+154,Caldas,2013,75
+155,Casanare,2013,989
+156,Cundinamarca,2013,173
+157,Meta,2013,978
+158,Norte de Santander,2013,593
+159,Santander,2013,776
+160,Valle del cauca,2013,486
+161,Antioquia,2014,106
+162,Bolivar,2014,138
+163,Boyaca,2014,42
+164,Caldas,2014,93
+165,Casanare,2014,642
+166,Cundinamarca,2014,157
+167,Meta,2014,795
+168,Norte de Santander,2014,635
+169,Santander,2014,698
+170,Valle del cauca,2014,223
+171,Antioquia,2015,105
+172,Bolivar,2015,145
+173,Boyaca,2015,72
+174,Caldas,2015,116
+175,Casanare,2015,541
+176,Cundinamarca,2015,121
+177,Meta,2015,635
+178,Norte de Santander,2015,309
+179,Santander,2015,397
+180,Valle del cauca,2015,430
+181,Antioquia,2016,235
+182,Bolivar,2016,15
+183,Boyaca,2016,79
+184,Caldas,2016,77
+185,Casanare,2016,33
+186,Cundinamarca,2016,97
+187,Meta,2016,57
+188,Norte de Santander,2016,74
+189,Santander,2016,164
+190,Valle del cauca,2016,211
+191,Antioquia,2017,16
+192,Bolivar,2017,5
+193,Boyaca,2017,18
+194,Caldas,2017,4
+195,Casanare,2017,19
+196,Cundinamarca,2017,10
+197,Meta,2017,19
+198,Norte de Santander,2017,18
+199,Santander,2017,20
+200,Valle del cauca,2017,1

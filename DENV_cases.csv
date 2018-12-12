@@ -1,0 +1,201 @@
+"","State","Year","n_cases"
+"1","Antioquia",1998,13597
+"2","Bolivar",1998,634
+"3","Boyaca",1998,463
+"4","Caldas",1998,882
+"5","Casanare",1998,570
+"6","Cundinamarca",1998,1577
+"7","Meta",1998,1034
+"8","Norte de Santander",1998,5880
+"9","Santander",1998,4553
+"10","Valle del cauca",1998,10116
+"11","Antioquia",1999,1589
+"12","Bolivar",1999,234
+"13","Boyaca",1999,191
+"14","Caldas",1999,130
+"15","Casanare",1999,225
+"16","Cundinamarca",1999,537
+"17","Meta",1999,204
+"18","Norte de Santander",1999,1516
+"19","Santander",1999,2367
+"20","Valle del cauca",1999,2208
+"21","Antioquia",2000,545
+"22","Bolivar",2000,274
+"23","Boyaca",2000,159
+"24","Caldas",2000,108
+"25","Casanare",2000,292
+"26","Cundinamarca",2000,935
+"27","Meta",2000,975
+"28","Norte de Santander",2000,2089
+"29","Santander",2000,2423
+"30","Valle del cauca",2000,2680
+"31","Antioquia",2001,1258
+"32","Bolivar",2001,690
+"33","Boyaca",2001,948
+"34","Caldas",2001,457
+"35","Casanare",2001,283
+"36","Cundinamarca",2001,2100
+"37","Meta",2001,1091
+"38","Norte de Santander",2001,9295
+"39","Santander",2001,8680
+"40","Valle del cauca",2001,9019
+"41","Antioquia",2002,2082
+"42","Bolivar",2002,683
+"43","Boyaca",2002,644
+"44","Caldas",2002,1418
+"45","Casanare",2002,1044
+"46","Cundinamarca",2002,2563
+"47","Meta",2002,1230
+"48","Norte de Santander",2002,4572
+"49","Santander",2002,9007
+"50","Valle del cauca",2002,13822
+"51","Antioquia",2003,4582
+"52","Bolivar",2003,443
+"53","Boyaca",2003,397
+"54","Caldas",2003,934
+"55","Casanare",2003,1162
+"56","Cundinamarca",2003,2260
+"57","Meta",2003,2284
+"58","Norte de Santander",2003,3342
+"59","Santander",2003,7788
+"60","Valle del cauca",2003,5865
+"61","Antioquia",2004,1465
+"62","Bolivar",2004,405
+"63","Boyaca",2004,236
+"64","Caldas",2004,280
+"65","Casanare",2004,986
+"66","Cundinamarca",2004,1249
+"67","Meta",2004,1042
+"68","Norte de Santander",2004,1517
+"69","Santander",2004,687
+"70","Valle del cauca",2004,1965
+"71","Antioquia",2005,1412
+"72","Bolivar",2005,688
+"73","Boyaca",2005,210
+"74","Caldas",2005,243
+"75","Casanare",2005,2394
+"76","Cundinamarca",2005,1914
+"77","Meta",2005,3627
+"78","Norte de Santander",2005,743
+"79","Santander",2005,5761
+"80","Valle del cauca",2005,4395
+"81","Antioquia",2006,2152
+"82","Bolivar",2006,459
+"83","Boyaca",2006,194
+"84","Caldas",2006,660
+"85","Casanare",2006,2255
+"86","Cundinamarca",2006,1336
+"87","Meta",2006,1323
+"88","Norte de Santander",2006,4411
+"89","Santander",2006,6503
+"90","Valle del cauca",2006,2113
+"91","Antioquia",2007,3215
+"92","Bolivar",2007,717
+"93","Boyaca",2007,412
+"94","Caldas",2007,455
+"95","Casanare",2007,2379
+"96","Cundinamarca",2007,2170
+"97","Meta",2007,2697
+"98","Norte de Santander",2007,4064
+"99","Santander",2007,4426
+"100","Valle del cauca",2007,3737
+"101","Antioquia",2008,2492
+"102","Bolivar",2008,1398
+"103","Boyaca",2008,122
+"104","Caldas",2008,94
+"105","Casanare",2008,1937
+"106","Cundinamarca",2008,833
+"107","Meta",2008,3259
+"108","Norte de Santander",2008,4127
+"109","Santander",2008,5244
+"110","Valle del cauca",2008,2298
+"111","Antioquia",2009,1360
+"112","Bolivar",2009,303
+"113","Boyaca",2009,277
+"114","Caldas",2009,341
+"115","Casanare",2009,1517
+"116","Cundinamarca",2009,477
+"117","Meta",2009,2259
+"118","Norte de Santander",2009,2490
+"119","Santander",2009,2591
+"120","Valle del cauca",2009,6143
+"121","Antioquia",2010,6044
+"122","Bolivar",2010,138
+"123","Boyaca",2010,977
+"124","Caldas",2010,455
+"125","Casanare",2010,474
+"126","Cundinamarca",2010,1118
+"127","Meta",2010,1430
+"128","Norte de Santander",2010,4969
+"129","Santander",2010,2156
+"130","Valle del cauca",2010,13796
+"131","Antioquia",2011,800
+"132","Bolivar",2011,443
+"133","Boyaca",2011,179
+"134","Caldas",2011,183
+"135","Casanare",2011,337
+"136","Cundinamarca",2011,489
+"137","Meta",2011,1504
+"138","Norte de Santander",2011,773
+"139","Santander",2011,453
+"140","Valle del cauca",2011,1116
+"141","Antioquia",2012,1991
+"142","Bolivar",2012,1403
+"143","Boyaca",2012,271
+"144","Caldas",2012,82
+"145","Casanare",2012,2115
+"146","Cundinamarca",2012,2017
+"147","Meta",2012,6181
+"148","Norte de Santander",2012,4113
+"149","Santander",2012,4797
+"150","Valle del cauca",2012,2985
+"151","Antioquia",2013,5671
+"152","Bolivar",2013,4447
+"153","Boyaca",2013,665
+"154","Caldas",2013,737
+"155","Casanare",2013,3404
+"156","Cundinamarca",2013,4499
+"157","Meta",2013,9048
+"158","Norte de Santander",2013,7907
+"159","Santander",2013,15829
+"160","Valle del cauca",2013,21963
+"161","Antioquia",2014,6762
+"162","Bolivar",2014,2865
+"163","Boyaca",2014,541
+"164","Caldas",2014,916
+"165","Casanare",2014,2248
+"166","Cundinamarca",2014,4132
+"167","Meta",2014,7496
+"168","Norte de Santander",2014,8539
+"169","Santander",2014,14313
+"170","Valle del cauca",2014,10190
+"171","Antioquia",2015,6780
+"172","Bolivar",2015,3036
+"173","Boyaca",2015,920
+"174","Caldas",2015,1144
+"175","Casanare",2015,1930
+"176","Cundinamarca",2015,3242
+"177","Meta",2015,6104
+"178","Norte de Santander",2015,4185
+"179","Santander",2015,8192
+"180","Valle del cauca",2015,19818
+"181","Antioquia",2016,15348
+"182","Bolivar",2016,315
+"183","Boyaca",2016,1014
+"184","Caldas",2016,759
+"185","Casanare",2016,118
+"186","Cundinamarca",2016,2637
+"187","Meta",2016,561
+"188","Norte de Santander",2016,1014
+"189","Santander",2016,3391
+"190","Valle del cauca",2016,9836
+"191","Antioquia",2017,1042
+"192","Bolivar",2017,109
+"193","Boyaca",2017,228
+"194","Caldas",2017,40
+"195","Casanare",2017,69
+"196","Cundinamarca",2017,271
+"197","Meta",2017,193
+"198","Norte de Santander",2017,247
+"199","Santander",2017,411
+"200","Valle del cauca",2017,60
