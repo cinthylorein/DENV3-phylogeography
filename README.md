@@ -1,2 +1,2 @@
-# DENV3-phylogeography
-phylogeography DENV3, Colombia 2001_2017 
+# DENV3-phylodynamics
+phylodynamics DENV3, Colombia 2001_2017 
